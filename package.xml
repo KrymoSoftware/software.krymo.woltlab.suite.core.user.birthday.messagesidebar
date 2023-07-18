@@ -5,7 +5,7 @@
         <packagename language="de"><![CDATA[Geburtstagskuchen in der Nachrichten-Seitenleiste]]></packagename>
         <packagedescription><![CDATA[This package provides a birthday cake icon in the message sidebar for the WoltLab Suite™ Core.]]></packagedescription>
         <packagedescription language="de"><![CDATA[Dieses Paket stellt ein Geburtstagskuchen-Icon in der Nachrichten-Seitenleiste für den WoltLab Suite™ Core zur Verfügung.]]></packagedescription>
-        <version>1.0.1</version>
+        <version>1.0.2</version>
         <date>2023-07-18</date>
         <packageurl><![CDATA[https://krymo.software]]></packageurl>
     </packageinformation>
@@ -30,7 +30,7 @@
         <instruction type="template"/>
     </instructions>
 
-    <instructions type="update" fromversion="1.0.0">
+    <instructions type="update" fromversion="1.0.*">
         <instruction type="template"/>
     </instructions>
 </package>
