@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language languagecode="de" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/2019/language.xsd">
-	<category name="wcf.acp.group">
-		<item name="wcf.acp.group.option.user.profile.canSeeBirthdayCakesInMessageSidebar"><![CDATA[Kann Geburtstagskuchen in der Nachrichten-Seitenleiste sehen]]></item>
-	</category>
-	<category name="wcf.user">
-		<item name="wcf.user.birthdayToday.messageSidebar"><![CDATA[{$userProfile->username} hat heute Geburtstag!]]></item>
-	</category>
+	<import>
+		<category name="wcf.acp.group">
+			<item name="wcf.acp.group.option.user.profile.canSeeBirthdayCakesInMessageSidebar"><![CDATA[Kann Geburtstagskuchen in der Nachrichten-Seitenleiste sehen]]></item>
+		</category>
+		<category name="wcf.user">
+			<item name="wcf.user.birthdayToday.messageSidebar"><![CDATA[{$userProfile->username} hat heute Geburtstag!]]></item>
+		</category>
+	</import>
 </language>
