@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<package name="software.krymo.woltlab.suite.core.user.birthday.messagesidebar" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/2019/package.xsd">
+<package name="software.krymo.woltlab.suite.core.user.birthday.messagesidebar" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/6.0/package.xsd">
 	<packageinformation>
 		<packagename><![CDATA[Birthday Cakes in the Message Sidebar]]></packagename>
 		<packagename language="de"><![CDATA[Geburtstagskuchen in der Nachrichten-Seitenleiste]]></packagename>
