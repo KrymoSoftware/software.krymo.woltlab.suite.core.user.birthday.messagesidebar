@@ -11,7 +11,7 @@ Internet: https://krymo.software
 
 § 1. Geltungsbereich
 
-1.1. Die nachfolgenden Lizenzbestimmungen beziehen sich auf alle von Niklas Friedrich Gerstner kostenlos zur Verfügung gestellten Versionen der Produkte auf den Websites https://www.woltlab.com/ und https://krymo.software/, die durch Niklas Friedrich Gerstner (im weiteren Hersteller genannt) hergestellt worden sind.
+1.1. Die nachfolgenden Lizenzbestimmungen beziehen sich auf alle kostenlos zur Verfügung gestellten Versionen der Produkte auf den Websites https://www.woltlab.com/ und https://krymo.software/, die durch Niklas Friedrich Gerstner (im weiteren Hersteller genannt) hergestellt worden sind.
 
 1.2. Es gelten ausschließlich die Bestimmungen dieser Lizenzvereinbarung. Mündlichen Nebenabreden oder etwaigen Geschäftsbedingungen der herunterladenden Person werden bereits jetzt widersprochen.
 
@@ -47,9 +47,11 @@ Internet: https://krymo.software
 
 6.1. Im Hinblick auf sämtliche Rechtsbeziehungen aus diesen Lizenzbestimmungen gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts.
 
-6.2. Sofern Sie Kaufmann im Sinne des Handelsgesetzbuches, juristische Person des öffentlichen Rechts oder öffentlich rechtliches Sondervermögen sind, wird für sämtliche Streitigkeiten, die im Rahmen der Abwicklung dieser Lizenzvereinbarung entstehen, München in Deutschland als Gerichtstand vereinbart.
+6.2. Sofern Sie Kaufmann im Sinne des Handelsgesetzbuches, juristische Person des öffentlichen Rechts oder öffentlich rechtliches Sondervermögen sind, wird für sämtliche Streitigkeiten, die im Rahmen der Abwicklung dieser Lizenzvereinbarung entstehen, München als Gerichtstand vereinbart.
+
 
 --------------------
+
 
 Manufacturer:
 
