@@ -6,7 +6,6 @@
 			<templatename>messageSidebar</templatename>
 			<eventname>beforeCredits</eventname>
 			<templatecode><![CDATA[{include file='__messageSidebarBirthdayCake'}]]></templatecode>
-			<permissions>user.profile.canSeeBirthdayCakesInMessageSidebar</permissions>
 		</templatelistener>
 	</import>
 </data>

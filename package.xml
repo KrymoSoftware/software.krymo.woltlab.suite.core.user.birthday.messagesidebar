@@ -24,13 +24,14 @@
 	</excludedpackages>
 
 	<instructions type="install">
+		<instruction type="template"/>
 		<instruction type="language"/>
 		<instruction type="userGroupOption"/>
 		<instruction type="templateListener"/>
-		<instruction type="template"/>
 	</instructions>
 
 	<instructions type="update" fromversion="1.0.*">
 		<instruction type="template"/>
+		<instruction type="templateListener"/>
 	</instructions>
 </package>
